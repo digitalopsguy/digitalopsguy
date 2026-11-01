@@ -1,16 +1,41 @@
-## Hi there 👋
+# Brian Atkinson
 
-<!--
-**digitalopsguy/digitalopsguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Builder, operator and founder of [Digital Ops Box](https://www.digitalopsbox.com). More than twenty years in high-end construction, project management and building businesses, with software alongside all of it.
 
-Here are some ideas to get you started:
+Most of my code is private because it runs real businesses. So here's the work itself. Try it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Digital Ops Box
+
+One workspace across all your businesses: projects, CRM, calls, email, finance and your agents, on one record.
+
+[![Digital Ops Box](media/digital-ops-box.gif)](https://demo.digitalopsbox.com)
+
+**[Try the live demo →](https://demo.digitalopsbox.com)**
+
+---
+
+### PlanJockey
+
+Takeoff and estimating for construction drawings, in your browser. Connects to your own agents.
+
+[![PlanJockey](media/planjockey.gif)](https://www.planjockey.com/demo)
+
+**[Try the demo →](https://www.planjockey.com/demo)**
+
+---
+
+### Signal Box
+
+An instrument that turns sound into a living network of light. One source can fill up to four screens.
+
+[![Signal Box](media/signal-box.gif)](https://signalbox.digitalopsbox.com)
+
+**[Play it →](https://signalbox.digitalopsbox.com)**
+
+---
+
+**[See all our work →](https://www.digitalopsbox.com/work)**
+
+Bring me your operational problem: [digitalopsbox.com](https://www.digitalopsbox.com/contact)
